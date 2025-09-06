@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, JAVA**
 
-- 👨‍💻 All of my projects are available at [[ahmed moftah]](https://ahmedfawzymof.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [ahmed moftah](https://ahmedfawzymof.github.io/portfolio/)
 
 - 💬 Ask me about **react, vue, ionic, nodeJs, Go, javascript/typescript, python**
 
